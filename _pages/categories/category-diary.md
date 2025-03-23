@@ -1,9 +1,9 @@
 ---
-title: "C#"
+title: "Diary"
 layout: category
-permalink: /basics/csharp/
+permalink: /personal/diary/
 author_profile: true
-taxonomy: C#
+taxonomy: Diary
 sidebar:
   nav: "categories"
 ---
