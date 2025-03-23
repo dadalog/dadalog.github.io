@@ -14,7 +14,7 @@ toc_sticky: true
 
 date: 2023-10-29 14:10:11+0900
 last_modified_at: 2023-10-29 14:10:14+0900
-published: false
+published: true
 ---
 
 ## 👻 들어가기에 앞서
