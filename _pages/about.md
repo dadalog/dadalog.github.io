@@ -1,8 +1,8 @@
 ---
-title: "Hi all! I'm Dada👋🏻"
+title: "Hello, world👋🏻"
 permalink: /about/
 layout: single
 comments: false
 ---
 
-:) 
+:)
