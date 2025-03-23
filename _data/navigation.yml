@@ -10,3 +10,9 @@ main:
   #   url: /collection-archive/
   # - title: "Sitemap"
   #   url: /sitemap/
+  categories:
+  - title: "Personal"
+    children:
+      - title: "Life"
+        url: /personal/life/
+
