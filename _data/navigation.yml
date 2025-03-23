@@ -9,9 +9,6 @@ main:
   # - title: "Categories"
   #   url: /categories/
 
-  - title: "GitHub"
-    url: https://github.com/choi-dan-di
-
   # - title: "Projects"
   #   url: /projects/
 
@@ -64,9 +61,3 @@ categories:
       - title: "Project CatTower"
         url: /projects/cattower/
 
-  - title: "Dandi"
-    children:
-      - title: "Today I Learned"
-        url: /dandi/til/ 
-      - title: "Me"
-        url: /dandi/me/
